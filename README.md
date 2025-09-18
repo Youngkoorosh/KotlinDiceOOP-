@@ -37,7 +37,7 @@ It’s a simple yet poetic demonstration of how Kotlin handles classes, methods,
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/KotlinDiceOOP.git
+   git clone [https://github.com/yourusername/KotlinDiceOOP.git](https://github.com/Youngkoorosh/KotlinDiceOOP-.git)
    ```
 2. Open in your favorite Kotlin IDE  
 3. Run the `main()` function  
