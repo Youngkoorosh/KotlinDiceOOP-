@@ -37,7 +37,7 @@ It’s a simple yet poetic demonstration of how Kotlin handles classes, methods,
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/KotlinDiceOOP.git](https://github.com/Youngkoorosh/KotlinDiceOOP-.git)
+   git clone https://github.com/yourusername/KotlinDiceOOP.git
    ```
 2. Open in your favorite Kotlin IDE  
 3. Run the `main()` function  
@@ -63,7 +63,7 @@ This project is a digital echo of that timeless mystery, wrapped in the elegance
 
 ## 🧙 Author
 
-Crafted with curiosity and code by [Your Name]  
+Crafted with curiosity and code by koorosh 
 Inspired by chance, shaped by structure.
 
 ---
